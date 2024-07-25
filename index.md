@@ -36,13 +36,15 @@ University of Sharjah, UAE
 
 ## Skills
 
-- **Programming:** C++ (Very Good), Python (Excellent), MATLAB (Excellent)
-- **Modeling and Simulation:** Simulink-Simscape-Stateflow
-- **Deep Learning:** Building custom DL models, TensorFlow, Data Visualization
-- **Robotics:** Kalman and Particle filters, SLAM, Control systems, ROS
-- **Control Systems:** Modern and classical control theory
-- **Anomaly Detection:** Data-driven models and algorithms
+- **Programming:** C++, Python, MATLAB 
+- **Modeling and Simulation:** Simulink, Simscape, Stateflow. Gazebo
+- **Machine Learning:** TensorFlow, Tensorflow-probability, Keras, Numpy, Scipy, Pandas
+- **Optimization:** Deap, Scipy, MATLAB optimization, 
+- **Robotics:** ROS, C++, Python, Particle filters, SLAM, Control systems
+- **Control Systems:** Time and frequency analysis
+- **Anomaly Detection:** Data-driven models and algorithms, Multivariate statistical analysis, Deep learning 
 - **Leadership:** Managing multidisciplinary teams
+- **Communication:**
 
 ---
 
@@ -56,16 +58,13 @@ University of British Columbia
 **Graduate Teaching Assistant**  
 University of British Columbia  
 *September 2022 – present*  
-- Teaching courses, using Python and Matlab, building models in Simulink
+- Engineering Analysis 3, Application of Engineering Design, Autonomous Vehicles Technology
 
-**Researcher**  
-University Of Sharjah/General Civil Aviation Authority (UAE)  
+**Research Engineer**  
+General Civil Aviation Authority (UAE)/University Of Sharjah  
 *September 2020 – March 2022*  
-- Part of the Autonomous Robotics and Active Vision Research group
+- Developing and testing control algorithms on quadcopters 
 
-**Line Cook**  
-Earls Kitchen and Bar  
-*2023 – present*
 
 ---
 
@@ -91,7 +90,11 @@ Earls Kitchen and Bar
 ### Predicting Mechanical Properties of High Entropy Alloys
 *July 2020 – May 2022*  
 - Building DL models for predicting mechanical properties of alloys
-
+###
+### Global Hybrid Electric Car (GHEC) Competition
+*September 2019 – December 2019*
+- Analyzed hybrid systems, modeled and simulated vehicle components, integrated modeling with system identification, and supervised a multidisciplinary team.
+###
 ---
 
 ## Publications
