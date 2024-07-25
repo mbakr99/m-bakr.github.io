@@ -90,11 +90,11 @@ General Civil Aviation Authority (UAE)/University Of Sharjah
 ### Predicting Mechanical Properties of High Entropy Alloys
 *July 2020 – May 2022*  
 - Building DL models for predicting mechanical properties of alloys
-###
+
 ### Global Hybrid Electric Car (GHEC) Competition
 *September 2019 – December 2019*
 - Analyzed hybrid systems, modeled and simulated vehicle components, integrated modeling with system identification, and supervised a multidisciplinary team.
-###
+
 ---
 
 ## Publications
