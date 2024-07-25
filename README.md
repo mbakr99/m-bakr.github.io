@@ -1,3 +1,7 @@
+---
+title: Mahmoud Bakr Elbeltagy
+---
+
 # Mahmoud Bakr Elbeltagy
 
 **Location:** Okanagan Valley, British Columbia  
