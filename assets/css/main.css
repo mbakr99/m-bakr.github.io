@@ -970,10 +970,15 @@ section,
 }
 
 .testimonials .testimonial-item h4 {
-  font-size: 14px;
+  font-size: 6px;
   color: color-mix(in srgb, var(--default-color), transparent 20%);
   margin: 0;
+  word-wrap: break-word;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  max-width: 100%;   
 }
+
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
